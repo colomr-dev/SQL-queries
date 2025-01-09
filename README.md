@@ -1,4 +1,4 @@
-# 🗄️ Ruta de Aprendizaje de SQL y Consultas Óptimas
+# 🗄️ Ruta de Aprendizaje de SQL 
 
 ## 📚 Estructura del Repositorio
 - **Conceptos/** - Fundamentos teóricos y mejores prácticas
